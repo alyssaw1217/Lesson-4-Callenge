@@ -1,0 +1,34 @@
+form {
+  position: relative;
+  top: 5px;
+  left: -230px;
+}
+button {
+  position: relative;
+  top: 35px;
+  left: -255px;
+}
+.weather {
+  font-family: "PT Sans", sans-serif;
+  font-family: "VinaSans", cursive;
+  border: 2px solid #000;
+  margin: 50px auto;
+  max-width: 790px;
+  text-align: center;
+}
+h1 {
+  text-align: right;
+}
+.date {
+  font-size: 25px;
+  text-align: right;
+}
+.degree {
+  font-size: 30px;
+  text-align: center;
+}
+.location img {
+  display: block;
+  margin: auto;
+  background-size: 60px;
+}
